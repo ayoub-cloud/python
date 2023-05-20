@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+h1, p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px
+}
+
+a {
+    margin: 20px 20px;
+    padding:20px;
+    font-size:20px;
+    border-radius: 20px;
+}
+
+.click {
+    background-color: blue;
+    color:white;
+    
+}
+
+.reset {
+    background-color: red;
+    color:white;
+}
+
+.add2 {
+    background-color: green;
+    color:white;
+}
